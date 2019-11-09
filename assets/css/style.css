@@ -1,0 +1,23 @@
+.namebar {
+    background-color:#4aaaa5;
+}
+.col-md-2-name{
+    background-color:#4aaaa5;
+    text-decoration-color:white;
+
+}
+.aboutme{
+background-image:"/assets/images/thailandbeaches.jpg"
+}
+.row {
+    margin-top:10px;
+    Margin-bottom:10px;
+}
+#footer {
+    text-align:center;
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;  
+  background-color:#4aaaa5;
+}
